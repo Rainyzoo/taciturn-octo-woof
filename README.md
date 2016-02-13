@@ -1,4 +1,4 @@
 # taciturn-octo-woof
-Example repo for a Git tutorial I'm giving.
+I made this repo for a Git tutorial as an example.
 
-Now with extra excellence!  And more Scandinavians
+Now with extra excellence!  And more kings of Pop
