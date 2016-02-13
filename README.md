@@ -1,4 +1,4 @@
 # taciturn-octo-woof
-Example repo for a Git tutorial I'm giving.
+This repo.  It's an example for a Git tutorial.  It store things.
 
-Now with extra excellence!  And more Scandinavians
+Like music lyrics.  Mostly of people I like, because I was listening to Queen when I put this together.
