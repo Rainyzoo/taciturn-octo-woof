@@ -1,4 +1,6 @@
 # taciturn-octo-woof
 This repo.  It's an example for a Git tutorial.  It store things.
 
-Like music lyrics.  Mostly of people I like, because I was listening to Queen when I put this together.
+I like this repository because I like the music I listen to.
+
+And it was the best example that came to mind and coffee is delicious.
